@@ -4,6 +4,8 @@ Fork of st terminal from git.suckless.org/st
 Version 0.8.2
 
 ======
+
+
 patches:
 * alpha
 * scrollback with mouse
